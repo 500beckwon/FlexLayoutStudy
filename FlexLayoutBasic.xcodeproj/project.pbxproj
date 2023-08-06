@@ -17,6 +17,8 @@
 		6839DF0F2A7FD0BA008B3FC7 /* Example1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6839DF0E2A7FD0BA008B3FC7 /* Example1View.swift */; };
 		6839DF112A7FD187008B3FC7 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6839DF102A7FD187008B3FC7 /* BaseViewController.swift */; };
 		6839DF132A7FD1B6008B3FC7 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6839DF122A7FD1B6008B3FC7 /* TestViewController.swift */; };
+		6839DF172A7FD4F6008B3FC7 /* Example2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6839DF162A7FD4F6008B3FC7 /* Example2View.swift */; };
+		6839DF192A7FD528008B3FC7 /* BasicView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6839DF182A7FD528008B3FC7 /* BasicView2.swift */; };
 		ED95D24649D88CE222A4794E /* Pods_FlexLayoutBasic.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8163F6DDEDB8B679646117AB /* Pods_FlexLayoutBasic.framework */; };
 /* End PBXBuildFile section */
 
@@ -34,6 +36,8 @@
 		6839DF0E2A7FD0BA008B3FC7 /* Example1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example1View.swift; sourceTree = "<group>"; };
 		6839DF102A7FD187008B3FC7 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		6839DF122A7FD1B6008B3FC7 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		6839DF162A7FD4F6008B3FC7 /* Example2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example2View.swift; sourceTree = "<group>"; };
+		6839DF182A7FD528008B3FC7 /* BasicView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicView2.swift; sourceTree = "<group>"; };
 		8163F6DDEDB8B679646117AB /* Pods_FlexLayoutBasic.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FlexLayoutBasic.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C8014F233987F70BDFC40E3 /* Pods-FlexLayoutBasic.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlexLayoutBasic.release.xcconfig"; path = "Target Support Files/Pods-FlexLayoutBasic/Pods-FlexLayoutBasic.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -85,7 +89,9 @@
 				6839DEFC2A7FC99A008B3FC7 /* ViewController.swift */,
 				6839DF122A7FD1B6008B3FC7 /* TestViewController.swift */,
 				6839DF0E2A7FD0BA008B3FC7 /* Example1View.swift */,
+				6839DF162A7FD4F6008B3FC7 /* Example2View.swift */,
 				6839DF0C2A7FD0A9008B3FC7 /* BasicView.swift */,
+				6839DF182A7FD528008B3FC7 /* BasicView2.swift */,
 				6839DEFE2A7FC99A008B3FC7 /* Main.storyboard */,
 				6839DF012A7FC99B008B3FC7 /* Assets.xcassets */,
 				6839DF032A7FC99B008B3FC7 /* LaunchScreen.storyboard */,
@@ -224,7 +230,9 @@
 				6839DEF92A7FC99A008B3FC7 /* AppDelegate.swift in Sources */,
 				6839DEFB2A7FC99A008B3FC7 /* SceneDelegate.swift in Sources */,
 				6839DF0D2A7FD0A9008B3FC7 /* BasicView.swift in Sources */,
+				6839DF172A7FD4F6008B3FC7 /* Example2View.swift in Sources */,
 				6839DF112A7FD187008B3FC7 /* BaseViewController.swift in Sources */,
+				6839DF192A7FD528008B3FC7 /* BasicView2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

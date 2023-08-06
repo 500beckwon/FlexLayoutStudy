@@ -21,6 +21,13 @@ final class TestViewController: BaseViewController {
         super.init(coder: aDecoder)
     }
     
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        mainView.didTapped = { _ in
+            
+        }
+    }
+    
     override func loadView() {
         view = Example1View()
     }

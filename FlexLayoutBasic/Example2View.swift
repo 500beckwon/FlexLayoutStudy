@@ -1,15 +1,15 @@
 //
-//  Example1View.swift
+//  Example2View.swift
 //  FlexLayoutBasic
 //
 //  Created by ByungHoon Ann on 2023/08/06.
 //
 
 import UIKit
-import PinLayout
 
-class Example1View: UIView {
+class Example2View: UIView {
     fileprivate let rootFlexContainer = UIView()
+
     init() {
         super.init(frame: .zero)
         backgroundColor = .white
@@ -25,7 +25,6 @@ class Example1View: UIView {
         }
         
         addSubview(rootFlexContainer)
-
     }
     
     required init?(coder aDecoder: NSCoder) {
